@@ -1,0 +1,19 @@
+#foto{
+    max-width: 100px;
+    min-width: 100px;
+}
+.main{
+    background-color: lightblue;
+}
+#p1{
+    text-align: right;
+    padding-right: 100px;
+    color: red;
+}
+#p2{
+    text-align: center;
+    margin-bottom: none;
+}
+div{
+    text-align: center;
+}
