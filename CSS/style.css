@@ -3,17 +3,70 @@
     min-width: 100px;
 }
 .main{
-    background-color: lightblue;
+    background-color: aquamarine;
 }
 #p1{
     text-align: right;
     padding-right: 100px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+#sp{
     color: red;
 }
-#p2{
+#butoni{
+    border: none;
+    margin-top: 20px;
+    background-color: #4CAF50;
+    display: inline-block;
+    border-radius: 15px 15px 15px 15px;
+}
+#reg{
+    margin-bottom: 10px;
+    background: none;
+    font-weight: 800;
+    border-color: gray;
+    border-top: 2px;
+    border-bottom: 2px;
+    border-right: 2px;
+}
+#login{
+    margin-bottom: 10px;
+    background: none;
+    font-weight: 800;
+    border-color: gray;
+    border-top: 2px;
+    border-bottom: 2px;
+    border-right: 2px;
+}
+#pass{
+    border: none;
+    border-radius: 15px 15px 15px 15px;
+}
+#div2{
+    margin-top: 10px;
+}
+#user{
+    border: none;
+    border-radius: 15px 15px 15px 15px;
+}
+#p3{
     text-align: center;
     margin-bottom: none;
 }
 div{
     text-align: center;
+}
+.shape{
+  margin-top: 120px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 200px;
+  border-radius: 25px;
+  background-color: cornflowerblue;
+  padding: 20px;
+  width: 200px;
+  height: 180px;
 }
